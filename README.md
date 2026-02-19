@@ -1,6 +1,6 @@
-# Liz Softwares - Site Institucional
+# Liz Software - Site Institucional
 
-Site institucional da Liz Softwares, software house especializada em desenvolvimento de soluções sob medida.
+Site institucional da Liz Software, software house especializada em desenvolvimento de soluções sob medida.
 
 ## Estrutura
 
@@ -24,7 +24,7 @@ site_lizsoftware/
 
 ## Personalização
 
-- **E-mail e WhatsApp:** edite os links em `index.html` na seção de contato
+- **E-mail e WhatsApp:** edite os links em `index.html` na seção de contato (e-mail: contatolizsoftware@gmail.com)
 - **Conteúdo:** ajuste textos, produtos e serviços conforme necessário
 - **Cores:** variáveis CSS no início de `styles.css`
 
@@ -41,7 +41,7 @@ site_lizsoftware/
 ### 1. Criar o repositório no GitHub
 
 1. Acesse [github.com/new](https://github.com/new)
-2. Nome sugerido: `site-lizsoftwares` ou `lizsoftwares-site`
+2. Nome sugerido: `site-lizsoftware` ou `lizsoftware-site`
 3. Deixe **público** e **não** marque "Add a README" (o projeto já tem)
 4. Clique em **Create repository**
 
@@ -67,4 +67,4 @@ Substitua `SEU_USUARIO` e `NOME_DO_REPO` pelo seu usuário e nome do repositóri
 
 Em alguns minutos, o site estará em: `https://SEU_USUARIO.github.io/NOME_DO_REPO/`
 
-Para usar domínio próprio (ex: lizsoftwares.com.br), configure em **Custom domain** nas Pages.
+Para usar domínio próprio (ex: lizsoftware.com.br), configure em **Custom domain** nas Pages.
